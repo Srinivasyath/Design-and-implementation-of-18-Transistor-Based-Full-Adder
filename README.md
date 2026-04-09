@@ -66,4 +66,4 @@ The proposed full adder design was developed using:
 
 ---
 
-## 📂 Repository Structure
+
